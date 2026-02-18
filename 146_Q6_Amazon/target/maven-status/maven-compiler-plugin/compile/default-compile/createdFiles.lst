@@ -1,0 +1,7 @@
+org/example/evaluations/EvaluationsApplication.class
+org/example/evaluations/evaluation/services/AmazonProductService.class
+org/example/evaluations/evaluation/dtos/AmazonProductDataDto.class
+org/example/evaluations/evaluation/services/IProductService.class
+org/example/evaluations/evaluation/controllers/AmazonProductController.class
+org/example/evaluations/evaluation/models/AmazonProduct.class
+org/example/evaluations/evaluation/dtos/AmazonProductDto.class
